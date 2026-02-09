@@ -1,30 +1,118 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Jaehak%20Kim's%20Profile!&fontSize=50)
+<div align="center">
 
-# 🔍김 재 학  🔎
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Jaehak%20Kim&fontSize=80&fontAlignY=38&desc=AI%20Developer&descAlignY=55&descAlign=50)
 
-- 👋안녕하세요. AI 개발자 지원자 김재학 입니다**
-- 부산대학교 컴퓨터공학과
-- 🔥컨택을 원하시면 010-2570-1106 / taper44@hanmain.net으로 연락주세요.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Developer;LLM+%26+RAG+Specialist;Django+%2B+AI+Integration)](https://git.io/typing-svg)
 
+</div>
 
-# 🔗 LINK
-- **KDT 기업맞춤형 AI-X 교육과정 (824시간)**: Python 기반의 Full-Stack 개발 및 AI 모델링 및 LLM 학습일지와 프로젝트 협업 공간
+## 👨‍💻 About Me
 
-[![공부일지](https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaynano44/ai)
-[![1차프로젝트](https://img.shields.io/badge/1st_PROJECT-전력량_예측-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seungdobaek/AIX_1stProject)
-[![2차프로젝트](https://img.shields.io/badge/2nd_Project-법률_챗봇-33FF33?style=for-the-badge&logo=github&logoColor=black)](https://github.com/thre3o2wo/2ndTeamProject)
+```python
+class AIEngineer:
+    def __init__(self):
+        self.name = "김재학 (Jaehak Kim)"
+        self.education = "부산대학교 컴퓨터공학과"
+        self.role = "AI Developer"
+        self.focus = ["LLM", "RAG", "Full-Stack Development"]
+        
+    def get_expertise(self):
+        return {
+            "AI/ML": ["LLM", "RAG", "NLP", "Transformers"],
+            "Backend": ["Django", "FastAPI", "Flask"],
+            "Data": ["TensorFlow", "scikit-learn", "Pandas"]
+        }
+```
 
+<div align="center">
 
-# 🛠️ 기술 스택 (Tech Stack)
+### 🔥 Core Tech Stack
 
-| 구분 | 기술 |
-| :--- | :--- |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) |
-| **DBMS** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
-| **AI / ML** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Transformers](https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![LLM](https://img.shields.io/badge/OpenAI-LLM-412991?style=for-the-badge&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge&logo=openai&logoColor=white) |
-| **WEB Standard** | <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> |
-| **WEB Framework** | <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/django-FCC624?style=for-the-badge&logo=django&logoColor=black"> <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white">|
-| **Version Control** | <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> |
+#### AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
 
+#### Web Development
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+#### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 법률 AI 챗봇
+**LLM 기반 법률 상담 서비스**
+
+- **Tech**: Django, RAG, LangChain
+- **Features**: 계약서 분석, 법률 Q&A
+- **Status**: 🚧 In Progress
+
+[![Repo](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thre3o2wo/2ndTeamProject)
+
+</td>
+<td width="50%">
+
+### ⚡ 전력량 예측 AI
+**날씨·시간 기반 전력 소비 예측**
+
+- **Tech**: TensorFlow, XGBoost, Flask
+- **Accuracy**: RMSE 개선 달성
+- **Status**: ✅ Complete
+
+[![Repo](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seungdobaek/AIX_1stProject)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaynano44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynano44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+
+</div>
+
+---
+
+## 🎓 Education & Training
+
+**KDT 기업맞춤형 AI-X 교육과정** (824시간)
+- Python Full-Stack 개발
+- AI/ML 모델링 및 LLM 활용
+- 실전 프로젝트 기반 학습
+
+[![학습일지](https://img.shields.io/badge/📚_Study_Log-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaynano44/ai)
+
+---
+
+<div align="center">
+
+### 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-taper44@hanmail.net-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taper44@hanmail.net)
+[![Phone](https://img.shields.io/badge/Phone-010--2570--1106-00C73C?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:010-2570-1106)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer)
+
+</div>
