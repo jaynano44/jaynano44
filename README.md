@@ -27,6 +27,22 @@ class AIEngineer:
         }
 ```
 
+---
+
+<div align="center">
+
+## 🚀 Quick Navigation
+
+[![법률 RAG 챗봇](https://img.shields.io/badge/🏠_법률_RAG_챗봇-4A90E2?style=for-the-badge)](#-법률-rag-ai-챗봇-legal-rag-chatbot)
+[![전력량 예측 AI](https://img.shields.io/badge/⚡_전력량_예측_AI-F39C12?style=for-the-badge)](#-전력량-예측-ai-power-consumption-prediction)
+[![Frontend Portfolio](https://img.shields.io/badge/🎨_Frontend_Portfolio-E74C3C?style=for-the-badge)](#-frontend-portfolio)
+[![Education](https://img.shields.io/badge/🎓_Education-27AE60?style=for-the-badge)](#-education--training)
+[![GitHub Stats](https://img.shields.io/badge/📊_GitHub_Stats-9B59B6?style=for-the-badge)](#-github-stats)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🔥 Core Tech Stack
@@ -45,16 +61,26 @@ class AIEngineer:
   </tr>
   
   <tr>
-    <td align="center"><b>AI & Machine Learning</b></td>
+    <td align="center"><b>AI & LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI_GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/Upstage_SOLAR_Pro2-FF6B6B?style=for-the-badge">
+      <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge">
+      <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black">
+      <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Machine Learning</b></td>
     <td>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
       <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-      <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black">
-      <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge">
-      <img src="https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge&logo=openai&logoColor=white">
-      <img src="https://img.shields.io/badge/NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+      <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
+      <img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge">
+      <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black">
     </td>
   </tr>
 
@@ -124,6 +150,10 @@ class AIEngineer:
 ---
 
 ## 🚀 Featured Projects
+
+<div align="center">
+
+[![⬆️ Back to Top](https://img.shields.io/badge/⬆️_Back_to_Top-000000?style=flat-square)](#)</div>
 
 ### 🏠 법률 RAG AI 챗봇 (Legal RAG Chatbot)
 **하이브리드 RAG 기반 주택 임대차 법률 상담 서비스**
@@ -268,6 +298,12 @@ class AIEngineer:
 </div>
 
 ---
+
+<div align="center">
+
+[![⬆️ Back to Top](https://img.shields.io/badge/⬆️_Back_to_Top-000000?style=flat-square)](#)
+
+</div>
 
 ### ⚡ 전력량 예측 AI (Power Consumption Prediction)
 **날씨·시간 데이터 기반 전력 소비 예측**
@@ -419,6 +455,12 @@ class AIEngineer:
 
 ---
 
+<div align="center">
+
+[![⬆️ Back to Top](https://img.shields.io/badge/⬆️_Back_to_Top-000000?style=flat-square)](#)
+
+</div>
+
 ## 🎨 Frontend Portfolio
 
 **웹 퍼블리싱 & 디자인 포트폴리오**
@@ -467,6 +509,12 @@ class AIEngineer:
 
 ---
 
+<div align="center">
+
+[![⬆️ Back to Top](https://img.shields.io/badge/⬆️_Back_to_Top-000000?style=flat-square)](#)
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -480,6 +528,12 @@ class AIEngineer:
 </div>
 
 ---
+
+<div align="center">
+
+[![⬆️ Back to Top](https://img.shields.io/badge/⬆️_Back_to_Top-000000?style=flat-square)](#)
+
+</div>
 
 ## 🎓 Education & Training
 
@@ -567,6 +621,8 @@ class AIEngineer:
 ---
 
 <div align="center">
+
+[![⬆️ Back to Top](https://img.shields.io/badge/⬆️_Back_to_Top-000000?style=flat-square)](#)
 
 ### 📫 Contact
 
