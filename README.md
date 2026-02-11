@@ -208,11 +208,11 @@ class AIEngineer:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaynano44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaynano44&show_icons=true&theme=radical)](https://github.com/jaynano44)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynano44&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynano44&layout=compact&theme=radical)](https://github.com/jaynano44)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaynano44&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaynano44&theme=radical)](https://github.com/jaynano44)
 
 </div>
 
