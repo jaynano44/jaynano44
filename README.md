@@ -31,29 +31,93 @@ class AIEngineer:
 
 ### 🔥 Core Tech Stack
 
-#### AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+<table>
+  <tr>
+    <td width="150px" align="center"><b>Category</b></td>
+    <td><b>Technologies</b></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b>Programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b>AI & Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+      <img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black">
+      <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge">
+      <img src="https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+    </td>
+  </tr>
 
-#### Full-Stack Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <tr>
+    <td align="center"><b>Data Science</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge">
+    </td>
+  </tr>
 
-#### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white">
+    </td>
+  </tr>
 
-#### Database & Cloud
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Design Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+      <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
+      <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Database & Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white">
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Version Control</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -64,21 +128,78 @@ class AIEngineer:
 ### 🏠 법률 RAG AI 챗봇 (Legal RAG Chatbot)
 **하이브리드 RAG 기반 주택 임대차 법률 상담 서비스**
 
-<div align="center">
+<table>
+  <tr>
+    <td width="150px" align="center"><b>구분</b></td>
+    <td><b>기술</b></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b>Programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b>AI / LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Upstage_SOLAR_Pro2-FF6B6B?style=for-the-badge">
+      <img src="https://img.shields.io/badge/OpenAI_GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge">
+    </td>
+  </tr>
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o--mini-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone_Vector_DB-000000?style=for-the-badge)
+  <tr>
+    <td align="center"><b>Vector DB</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pinecone_VectorDB-000000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Cohere_Reranker-39594D?style=for-the-badge">
+      <img src="https://img.shields.io/badge/BM25_Sparse-02569B?style=for-the-badge">
+    </td>
+  </tr>
 
-![Upstage](https://img.shields.io/badge/Upstage_SOLAR_Pro2-FF6B6B?style=for-the-badge)
-![Cohere](https://img.shields.io/badge/Cohere_Reranker-39594D?style=for-the-badge)
-![EasyOCR](https://img.shields.io/badge/EasyOCR-4285F4?style=for-the-badge)
-![Kiwipiepy](https://img.shields.io/badge/Kiwi_형태소분석-00D09C?style=for-the-badge)
+  <tr>
+    <td align="center"><b>NLP / OCR</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kiwi_형태소분석-00D09C?style=for-the-badge">
+      <img src="https://img.shields.io/badge/EasyOCR-4285F4?style=for-the-badge">
+      <img src="https://img.shields.io/badge/pytesseract-00A4EF?style=for-the-badge">
+      <img src="https://img.shields.io/badge/pdfplumber-FF0000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/PyMuPDF-E0115F?style=for-the-badge">
+    </td>
+  </tr>
 
-![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  <tr>
+    <td align="center"><b>Evaluation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAGAS_Framework-FF8C00?style=for-the-badge">
+    </td>
+  </tr>
 
-</div>
+  <tr>
+    <td align="center"><b>Web Framework</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Version Control</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b>Deployment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 **핵심 기술**
 - **Hybrid RAG**: Dense(Pinecone) + Sparse(BM25) 검색 결합
@@ -89,19 +210,50 @@ class AIEngineer:
 
 **성능 개선 (RAGAS 평가)**
 
-| 지표 | 점수 | 의미 |
-|------|------|------|
-| **Context Recall** | **0.75** | 검색 재현율 |
-| **Context Precision** | **1.00** | 검색 정밀도 |
-| **Ri (Custom Score)** | **0.85** | 종합 검색 성능 지표 |
-| Faithfulness | 0.34 | 답변 충실성 |
-| Answer Relevancy | 0.41 | 답변 관련성 |
+<table>
+  <tr>
+    <th align="center">지표</th>
+    <th align="center">점수</th>
+    <th align="center">의미</th>
+  </tr>
+  <tr>
+    <td align="center"><b>Context Recall</b></td>
+    <td align="center"><b>0.75</b></td>
+    <td align="center">검색 재현율</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Context Precision</b></td>
+    <td align="center"><b>1.00</b></td>
+    <td align="center">검색 정밀도</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ri (Custom Score)</b></td>
+    <td align="center"><b>0.85</b></td>
+    <td align="center">종합 검색 성능 지표</td>
+  </tr>
+  <tr>
+    <td align="center">Faithfulness</td>
+    <td align="center">0.34</td>
+    <td align="center">답변 충실성</td>
+  </tr>
+  <tr>
+    <td align="center">Answer Relevancy</td>
+    <td align="center">0.41</td>
+    <td align="center">답변 관련성</td>
+  </tr>
+</table>
 
 **주요 성과**
 - ✅ **검색 정확도 최적화**: Dense + Sparse 통합 파이프라인으로 안정적 Recall 확보
 - ✅ **Precision 100% 달성**: Cohere Reranker 적용으로 완벽한 정밀도 달성
 - ✅ **LLM 모델 선정**: 6개 모델 비교 평가 → GPT-4o-mini 선정 (속도/비용/품질 최적)
 - ✅ **Prompt 최적화**: 일반 상담 vs 계약서 분석 모드 분리로 실용성 향상
+
+**역할**: PM / Backend Developer
+- 프로젝트 일정 관리 및 팀 협업 조율
+- Streamlit 기반 RAG 테스트 환경 구축
+- Django REST API 개발 및 웹 서비스 배포
+- AWS EC2 배포 및 서버 관리
 
 **팀 구성**: TEAM 안전한家 (4인)  
 **개발 기간**: 2025.01.12 - 2025.02.10 (4주)  
@@ -120,39 +272,124 @@ class AIEngineer:
 ### ⚡ 전력량 예측 AI (Power Consumption Prediction)
 **날씨·시간 데이터 기반 전력 소비 예측**
 
-<div align="center">
+<table>
+  <tr>
+    <td width="150px" align="center"><b>구분</b></td>
+    <td><b>기술</b></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b>Programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+  </tr>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  <tr>
+    <td align="center"><b>Data Analysis</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge">
+    </td>
+  </tr>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge&logoColor=white)
+  <tr>
+    <td align="center"><b>Deep Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    </td>
+  </tr>
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  <tr>
+    <td align="center"><b>ML Models</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
+      <img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge">
+      <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black">
+    </td>
+  </tr>
 
-</div>
+  <tr>
+    <td align="center"><b>Web Framework</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Version Control</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    </td>
+  </tr>
+</table>
 
 **성능 개선 과정**
 
-| 모델 | 주요 변경사항 | RMSE | 개선율 |
-|------|--------------|------|--------|
-| **M1 (Baseline)** | SimpleDNN (날짜 미포함) | 162,100 | - |
-| M2 | SimpleDNN (날짜 포함) | 164,830 | -1.7% ⬇️ |
-| **M3** | **SimpleDNN (LAG 포함)** | **90,848** | **44% ⬆️** |
-| M4 | SimpleDNN (LAG + 휴일) | 102,650 | 37% ⬆️ |
-| M5-M7 | EmbeddingDNN 시도 | 93,998~161,411 | - |
-| **M8 (최종)** | **LightGBM** | **89,264** | **45% ⬆️** |
-| M9 | XGBoost | 132,887 | 18% ⬆️ |
+<table>
+  <tr>
+    <th align="center">모델</th>
+    <th align="center">주요 변경사항</th>
+    <th align="center">RMSE</th>
+    <th align="center">개선율</th>
+  </tr>
+  <tr>
+    <td align="center"><b>M1 (Baseline)</b></td>
+    <td>SimpleDNN (날짜 미포함)</td>
+    <td align="center">162,100</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center">M2</td>
+    <td>SimpleDNN (날짜 포함)</td>
+    <td align="center">164,830</td>
+    <td align="center">-1.7% ⬇️</td>
+  </tr>
+  <tr>
+    <td align="center"><b>M3</b></td>
+    <td><b>SimpleDNN (LAG 포함)</b></td>
+    <td align="center"><b>90,848</b></td>
+    <td align="center"><b>44% ⬆️</b></td>
+  </tr>
+  <tr>
+    <td align="center">M4</td>
+    <td>SimpleDNN (LAG + 휴일)</td>
+    <td align="center">102,650</td>
+    <td align="center">37% ⬆️</td>
+  </tr>
+  <tr>
+    <td align="center">M5-M7</td>
+    <td>EmbeddingDNN 시도</td>
+    <td align="center">93,998~161,411</td>
+    <td align="center">-</td>
+  </tr>
+  <tr>
+    <td align="center"><b>M8 (최종)</b></td>
+    <td><b>LightGBM</b></td>
+    <td align="center"><b>89,264</b></td>
+    <td align="center"><b>45% ⬆️</b></td>
+  </tr>
+  <tr>
+    <td align="center">M9</td>
+    <td>XGBoost</td>
+    <td align="center">132,887</td>
+    <td align="center">18% ⬆️</td>
+  </tr>
+</table>
 
 **핵심 인사이트**
 - ⚡ **Lag Feature가 핵심**: 과거 전력 사용량 데이터 추가로 44% 성능 향상
@@ -160,10 +397,16 @@ class AIEngineer:
 - 📅 **단순 시간 정보는 오히려 독**: 날짜만 추가 시 오히려 성능 저하
 - 🎯 **Feature Engineering > Model Architecture**: 모델보다 피처가 더 중요
 
-**Features**
+**주요 기능**
 - LSTM, Ensemble 모델링
 - 실시간 예측 웹 서비스
 - 데이터 시각화 대시보드
+
+**역할**: Data Preprocessing & Deep Learning
+- 기상 데이터 전처리 및 EDA
+- 딥러닝 모델 개발 (LSTM, SimpleDNN)
+- 휴일 변수 추가를 통한 성능 개선
+- M4 모델 개발 (LAG + 휴일 피처)
 
 **개발 기간**: 2024.12.22 - 2025.01.02 (2주)  
 **Status**: ✅ 완료
@@ -180,21 +423,41 @@ class AIEngineer:
 
 **웹 퍼블리싱 & 디자인 포트폴리오**
 
-<div align="center">
+<table>
+  <tr>
+    <td width="150px" align="center"><b>구분</b></td>
+    <td><b>기술</b></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    </td>
+  </tr>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+  <tr>
+    <td align="center"><b>Design Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+      <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
+      <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
+    </td>
+  </tr>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+  <tr>
+    <td align="center"><b>Skills</b></td>
+    <td>PM, 기획, UI/UX 디자인</td>
+  </tr>
 
-</div>
-
-- **Skills**: PM, 기획, UI/UX 디자인
-- **Certificate**: 일러스트 자격증
+  <tr>
+    <td align="center"><b>Certificate</b></td>
+    <td>일러스트 자격증</td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -208,11 +471,11 @@ class AIEngineer:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaynano44&show_icons=true&theme=radical" alt="GitHub Stats" style="pointer-events: none;" />
+![](https://github-readme-stats.vercel.app/api?username=jaynano44&show_icons=true&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaynano44&layout=compact&theme=radical" alt="Top Languages" style="pointer-events: none;" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaynano44&layout=compact&theme=radical)
 
-<img src="https://streak-stats.demolab.com?user=jaynano44&theme=radical" alt="GitHub Streak" style="pointer-events: none;" />
+![](https://streak-stats.demolab.com?user=jaynano44&theme=radical)
 
 </div>
 
@@ -221,9 +484,83 @@ class AIEngineer:
 ## 🎓 Education & Training
 
 **KDT 기업맞춤형 AI-X 교육과정** (824시간)
-- Python Full-Stack 개발
-- AI/ML 모델링 및 LLM 활용
-- 실전 프로젝트 기반 학습
+
+<table>
+  <tr>
+    <td width="150px" align="center"><b>구분</b></td>
+    <td><b>내용</b></td>
+  </tr>
+  
+  <tr>
+    <td align="center"><b>Programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>DBMS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/NLP-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+      <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+      <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
+      <img src="https://img.shields.io/badge/OpenAI_LLM-412991?style=for-the-badge&logo=openai&logoColor=white">
+      <img src="https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge&logo=openai&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Web Standard</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+      <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Web Framework</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+      <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Version Control</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+### 📚 커리큘럼
+
+<div align="center">
+
+<img width="500" height="600" alt="KDT AI-X 커리큘럼" src="https://github.com/user-attachments/assets/b4aa81e6-3712-4d07-bbf2-c6d5c4273f5a" />
+
+</div>
 
 [![학습일지](https://img.shields.io/badge/📚_Study_Log-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaynano44/ai)
 
