@@ -296,7 +296,7 @@ class AIEngineer:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thre3o2wo/2ndTeamProject)
-[![AWS Deployment](https://img.shields.io/badge/AWS_배포_Repo-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/jaynano44/lease-law-app)
+[![AWS Deployment](https://img.shields.io/badge/AWS_배포_Repo-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/jaynano44/lease_law_app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://52.79.175.135)
 [![YouTube](https://img.shields.io/badge/시연_영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GFpilFkehSo)
 
