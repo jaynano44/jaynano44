@@ -35,11 +35,11 @@ class AIEngineer:
 
 ## 🚀 Quick Navigation
 
-[![법률 RAG 챗봇](https://img.shields.io/badge/🏠_법률_RAG_챗봇-4A90E2?style=for-the-badge)](#-법률-rag-ai-챗봇-legal-rag-chatbot)
-[![전력량 예측 AI](https://img.shields.io/badge/⚡_전력량_예측_AI-F39C12?style=for-the-badge)](#-전력량-예측-ai-power-consumption-prediction)
-[![Frontend Portfolio](https://img.shields.io/badge/🎨_Frontend_Portfolio-E74C3C?style=for-the-badge)](#-frontend-portfolio)
-[![Education](https://img.shields.io/badge/🎓_Education-27AE60?style=for-the-badge)](#-education--training)
-[![GitHub Stats](https://img.shields.io/badge/📊_GitHub_Stats-9B59B6?style=for-the-badge)](#-github-stats)
+[![법률 RAG 챗봇](https://img.shields.io/badge/법률_RAG_챗봇-555555?style=for-the-badge&logoColor=white)](#-법률-rag-ai-챗봇-legal-rag-chatbot)&nbsp;
+[![전력량 예측 AI](https://img.shields.io/badge/전력량_예측_AI-555555?style=for-the-badge&logoColor=white)](#-전력량-예측-ai-power-consumption-prediction)&nbsp;
+[![Frontend Portfolio](https://img.shields.io/badge/Frontend_Portfolio-555555?style=for-the-badge&logoColor=white)](#-frontend-portfolio)&nbsp;
+[![Education](https://img.shields.io/badge/Education-555555?style=for-the-badge&logoColor=white)](#-education--training)&nbsp;
+[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-555555?style=for-the-badge&logoColor=white)](#-github-stats)
 
 </div>
 
@@ -150,11 +150,13 @@ class AIEngineer:
 
 ---
 
-## 🚀 Featured Projects
-
 <div align="center">
 
-[![🔝 Back to Navigation](https://img.shields.io/badge/🔝_Back_to_Navigation-000000?style=flat-square)](#quick-navigation)</div>
+[![Back to Navigation](https://img.shields.io/badge/Back_to_Navigation-555555?style=flat-square)](#quick-navigation)
+
+</div>
+
+## 🚀 Featured Projects
 
 ### 🏠 법률 RAG AI 챗봇 (Legal RAG Chatbot)
 **하이브리드 RAG 기반 주택 임대차 법률 상담 서비스**
@@ -279,6 +281,7 @@ class AIEngineer:
 - ✅ **Precision 100% 달성**: Cohere Reranker 적용으로 완벽한 정밀도 달성
 - ✅ **LLM 모델 선정**: 6개 모델 비교 평가 → GPT-4o-mini 선정 (속도/비용/품질 최적)
 - ✅ **Prompt 최적화**: 일반 상담 vs 계약서 분석 모드 분리로 실용성 향상
+- ✅ **AWS EC2 배포**: Django + Streamlit 듀얼 서버 운영
 
 **역할**: PM / Backend Developer
 - 프로젝트 일정 관리 및 팀 협업 조율
@@ -288,11 +291,12 @@ class AIEngineer:
 
 **팀 구성**: TEAM 안전한家 (4인)  
 **개발 기간**: 2025.01.12 - 2025.02.10 (4주)  
-**Status**: ✅ 완료
+**Status**: ✅ 완료 · AWS 배포 운영 중
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thre3o2wo/2ndTeamProject)
+[![AWS Deployment](https://img.shields.io/badge/AWS_배포_Repo-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/jaynano44/lease-law-app)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://52.79.175.135)
 [![YouTube](https://img.shields.io/badge/시연_영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GFpilFkehSo)
 
@@ -302,7 +306,7 @@ class AIEngineer:
 
 <div align="center">
 
-[![🔝 Back to Navigation](https://img.shields.io/badge/🔝_Back_to_Navigation-000000?style=flat-square)](#quick-navigation)
+[![Back to Navigation](https://img.shields.io/badge/Back_to_Navigation-555555?style=flat-square)](#quick-navigation)
 
 </div>
 
@@ -458,7 +462,7 @@ class AIEngineer:
 
 <div align="center">
 
-[![🔝 Back to Navigation](https://img.shields.io/badge/🔝_Back_to_Navigation-000000?style=flat-square)](#quick-navigation)
+[![Back to Navigation](https://img.shields.io/badge/Back_to_Navigation-555555?style=flat-square)](#quick-navigation)
 
 </div>
 
@@ -512,7 +516,7 @@ class AIEngineer:
 
 <div align="center">
 
-[![🔝 Back to Navigation](https://img.shields.io/badge/🔝_Back_to_Navigation-000000?style=flat-square)](#quick-navigation)
+[![Back to Navigation](https://img.shields.io/badge/Back_to_Navigation-555555?style=flat-square)](#quick-navigation)
 
 </div>
 
@@ -532,7 +536,7 @@ class AIEngineer:
 
 <div align="center">
 
-[![🔝 Back to Navigation](https://img.shields.io/badge/🔝_Back_to_Navigation-000000?style=flat-square)](#quick-navigation)
+[![Back to Navigation](https://img.shields.io/badge/Back_to_Navigation-555555?style=flat-square)](#quick-navigation)
 
 </div>
 
@@ -622,7 +626,7 @@ class AIEngineer:
 
 <div align="center">
 
-[![🔝 Back to Navigation](https://img.shields.io/badge/🔝_Back_to_Navigation-000000?style=flat-square)](#quick-navigation)
+[![Back to Navigation](https://img.shields.io/badge/Back_to_Navigation-555555?style=flat-square)](#quick-navigation)
 
 ### 📫 Contact
 
