@@ -14,7 +14,7 @@ class AIEngineer:
         self.name = "김재학 (Jaehak Kim)"
         self.education = "부산대학교 컴퓨터공학과"
         self.role = "AI & Full-Stack Developer"
-        self.focus = ["LLM", "RAG", "Full-Stack Development"]
+        self.focus = ["LLM", "RAG", "HR AI", "Full-Stack Development"]
         
     def get_expertise(self):
         return {
@@ -37,8 +37,8 @@ class AIEngineer:
 
 [![법률 RAG 챗봇](https://img.shields.io/badge/법률_RAG_챗봇-555555?style=for-the-badge&logoColor=white)](#-법률-rag-ai-챗봇-legal-rag-chatbot)&nbsp;
 [![전력량 예측 AI](https://img.shields.io/badge/전력량_예측_AI-555555?style=for-the-badge&logoColor=white)](#-전력량-예측-ai-power-consumption-prediction)&nbsp;
+[![HR AI 플랫폼](https://img.shields.io/badge/🔨_HR_AI_플랫폼-1a6b3c?style=for-the-badge&logoColor=white)](#-hr-intelligence-platform-개발-중)&nbsp;
 [![Frontend Portfolio](https://img.shields.io/badge/Frontend_Portfolio-555555?style=for-the-badge&logoColor=white)](#-frontend-portfolio)&nbsp;
-[![Education](https://img.shields.io/badge/Education-555555?style=for-the-badge&logoColor=white)](#-education--training)&nbsp;
 [![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-555555?style=for-the-badge&logoColor=white)](#-github-stats)
 
 </div>
@@ -158,8 +158,25 @@ class AIEngineer:
 
 ## 🚀 Featured Projects
 
+---
+
 ### 🏠 법률 RAG AI 챗봇 (Legal RAG Chatbot)
 **하이브리드 RAG 기반 주택 임대차 법률 상담 서비스**
+
+> Dense(Pinecone) + Sparse(BM25) 하이브리드 검색 · Cohere Reranking · OCR 계약서 분석  
+> **팀**: TEAM 안전한家 (4인) · **기간**: 2025.01.12 - 02.10 (4주) · ✅ AWS 배포 운영 중
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thre3o2wo/2ndTeamProject)
+[![AWS Deployment](https://img.shields.io/badge/AWS_배포_Repo-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/jaynano44/lease_law_app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://52.79.175.135)
+[![YouTube](https://img.shields.io/badge/시연_영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GFpilFkehSo)
+
+</div>
+
+<details>
+<summary>📋 상세 보기 (기술 스택 · 성능 · 역할)</summary>
 
 <table>
   <tr>
@@ -289,18 +306,9 @@ class AIEngineer:
 - Django REST API 개발 및 웹 서비스 배포
 - AWS EC2 배포 및 서버 관리
 
-**팀 구성**: TEAM 안전한家 (4인)  
-**개발 기간**: 2025.01.12 - 2025.02.10 (4주)  
-**Status**: ✅ 완료 · AWS 배포 운영 중
+**팀 구성**: TEAM 안전한家 (4인) · **개발 기간**: 2025.01.12 - 2025.02.10 (4주) · **Status**: ✅ 완료 · AWS 배포 운영 중
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thre3o2wo/2ndTeamProject)
-[![AWS Deployment](https://img.shields.io/badge/AWS_배포_Repo-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/jaynano44/lease_law_app)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](http://52.79.175.135)
-[![YouTube](https://img.shields.io/badge/시연_영상-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GFpilFkehSo)
-
-</div>
+</details>
 
 ---
 
@@ -312,6 +320,18 @@ class AIEngineer:
 
 ### ⚡ 전력량 예측 AI (Power Consumption Prediction)
 **날씨·시간 데이터 기반 전력 소비 예측**
+
+> LightGBM + LAG Feature Engineering으로 RMSE 45% 개선  
+> **기간**: 2024.12.22 - 2025.01.02 (2주) · ✅ 완료
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seungdobaek/AIX_1stProject)
+
+</div>
+
+<details>
+<summary>📋 상세 보기 (기술 스택 · 모델 비교 · 역할)</summary>
 
 <table>
   <tr>
@@ -449,14 +469,180 @@ class AIEngineer:
 - 휴일 변수 추가를 통한 성능 개선
 - M4 모델 개발 (LAG + 휴일 피처)
 
-**개발 기간**: 2024.12.22 - 2025.01.02 (2주)  
-**Status**: ✅ 완료
+**개발 기간**: 2024.12.22 - 2025.01.02 (2주) · **Status**: ✅ 완료
+
+</details>
+
+---
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seungdobaek/AIX_1stProject)
+[![Back to Navigation](https://img.shields.io/badge/Back_to_Navigation-555555?style=flat-square)](#quick-navigation)
 
 </div>
+
+### 🔨 HR Intelligence Platform *(개발 중)*
+**파편화된 HR 데이터를 자동 수집·표준화하고 KPI 분석 · 퇴사 위험 탐지 · 채용 매칭 · 인력 추천까지 연결되는 범용 HR 데이터 엔진 + AI 의사결정 플랫폼**
+
+> 어떤 양식의 HR Excel이든 시트 단위로 자동 분류·통합 · 이력서 자동 파싱 · 면접 전 적합도 검증  
+> **현재**: v1.2-dev (자동 ingest + KPI 대시보드) → **다음**: 채용 매칭 + ML 퇴사 예측 + HR 챗봇
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaynano44/HR-Dashboard-Automation)
+![Status](https://img.shields.io/badge/v1.2--dev-진행중-orange?style=for-the-badge)
+
+</div>
+
+<details>
+<summary>📋 상세 보기 (아키텍처 · 기술 스택 · 기능 · 로드맵)</summary>
+
+**시스템 구조**
+```
+Raw HR Excel / PDF 이력서 / 이미지 증빙서류 (어떤 양식이든)
+        ↓
+Auto Ingest Engine       ← 시트 단위 자동 분류 + fingerprint + 타임아웃
+        ↓
+Universal Schema Mapper  ← 규칙(≥0.85) → ML(≥0.70) → LLM(≥0.60) → Human Queue
+        ↓
+Entity Resolver          ← 직원 중복 통합 (fuzzy + LLM) → emp_uid 불변 보장
+        ↓
+┌─────────────────────────────────────────────────────┐
+│  🟤 BRONZE  원본 불변 보존 (절대 수정 금지)          │
+│  ⚪ SILVER  표준화·정제·통합 (1인1행, SCD Type2)    │
+│  🟡 GOLD    분석용 KPI 집계 + ML 피처               │
+│  💎 PLATINUM AI추론·LLM 컨텍스트·임베딩            │
+└─────────────────────────────────────────────────────┘
+        ↓
+Streamlit Dashboard  ← 인력현황 / 조직 / 리스크 / 채용매칭 / 인력소요 / HR챗봇
+```
+
+<table>
+  <tr>
+    <td width="150px" align="center"><b>구분</b></td>
+    <td><b>기술</b></td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Programming</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Data Processing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+      <img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+      <img src="https://img.shields.io/badge/pdfplumber-FF0000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/EasyOCR-4285F4?style=for-the-badge">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>AI & LLM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge">
+      <img src="https://img.shields.io/badge/RAG-00ADD8?style=for-the-badge">
+      <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge">
+      <img src="https://img.shields.io/badge/XGBoost-EB5424?style=for-the-badge">
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>ML / NLP</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TF--IDF-FF6F00?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Fuzzy_Matching-6B46C1?style=for-the-badge">
+      <img src="https://img.shields.io/badge/SHAP-FF4B4B?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Embedding-00ADD8?style=for-the-badge">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Dashboard</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Config & Infra</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyYAML-CC0000?style=for-the-badge">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+      <img src="https://img.shields.io/badge/PyInstaller-1F3864?style=for-the-badge">
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Version Control</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    </td>
+  </tr>
+</table>
+
+**플랫폼 모듈 구성 (Module 1~5)**
+
+| 모듈 | 기능 | 상태 |
+|---|---|---|
+| **M1. 인력 현황** | 총인원·입퇴사·부서별·월별 추세·조기퇴사 | ✅ v1.1 완료 |
+| **M2. 프로젝트 인력 소요** | 프로젝트별 필요 인력·스킬 갭·가용 인원 분석 | 🔨 v2.0 |
+| **M3. 조달 추천** | 내부차출 vs 정규직 vs 프리랜서 비용/속도 비교 | 🔨 v2.0 |
+| **M4. 채용 매칭** | 이력서 자동 파싱 → 스킬 추출 → 적합도 점수 → 면접 체크리스트 | 🔨 v2.1 |
+| **M5. 성과·보상·진급** | 평가이력·Compa-ratio·승진 패턴·후보 추천 | 🔨 v2.2 |
+
+**현재 구현 기능 (v1.2-dev)**
+- ✅ 시트 단위 자동 분류 (master / aux_skill / reference_roster 혼재 처리)
+- ✅ 파일/전체 타임아웃 (hang 방지, threading 기반)
+- ✅ fingerprint 기반 증분 처리 (변경된 파일만 재처리)
+- ✅ 민감정보 자동 드랍 (주민번호·이메일·핸드폰)
+- ✅ raw 폴더 서브폴더 구조 (headcount / roster / skills / pricing / org_chart)
+- ✅ Bronze / Silver / Gold 4계층 데이터 아키텍처
+- ✅ QA 검증 (reference roster 대비 누락 탐지)
+- ✅ KPI 대시보드 (총인원·입퇴사·부서별·월별 추세)
+
+**채용 매칭 — 핵심 병목 해결**
+```
+부서 요청서 입력 (직무·스킬·경력·고용형태)
+      ↓
+① 내부 인력 자동 검색 (스킬 매칭 + 가용성)
+② 내부 불가 → 이력서 파일 업로드 (PDF/DOCX/이미지)
+③ LLM 이력서 자동 파싱 → 스킬·경력 구조화
+④ 매칭 점수 계산 (0~100)
+⑤ "면접에서 이것만 확인하세요" 체크리스트 자동 생성
+      ↓
+수일 걸리던 서류검토 → 수십 분으로 단축
+```
+
+**로드맵**
+
+| 버전 | 목표 | 기간 |
+|---|---|---|
+| v1.2-stable | KPI 정확도 + Attrition Risk 안정화 + 로컬 배포 준비 | 2주 |
+| v1.3 | 범용 schema mapper + entity resolver + exe 패키징 | 3주 |
+| v2.0 | M2·M3 인력 소요 + 조달 추천 + SCD Type2 | 6주 |
+| v2.1 | M4 채용 매칭 + 이력서 파싱 + HR 챗봇 (Claude API RAG) | 4주 |
+| v2.2 | M5 성과·보상·진급 + 승진 추천 | 4주 |
+| v3.0 | SaaS 전환 (멀티 테넌트 · 구독 모델) | 장기 |
+
+**기획 문서**
+
+| 문서 | 내용 |
+|---|---|
+| 📐 [완전 기획설계서 v2](https://github.com/jaynano44/HR-Dashboard-Automation/tree/main/docs/01_Architecture) | Module 1~5 전체 · 통합 데이터 모델 · 로드맵 |
+| 🗃️ [데이터 양식 레지스트리](https://github.com/jaynano44/HR-Dashboard-Automation/blob/main/docs/02_Data/HR_데이터_양식_레지스트리.md) | 파일 양식 분류 기준 · schema 유형 9가지 |
+| 📊 [KPI 계산 로직](https://github.com/jaynano44/HR-Dashboard-Automation/blob/main/docs/02_Data/HR_KPI_Calculation_Logic_Document.md) | 이직률 · 조기퇴사 · 조직건강도 계산 |
+| 🔧 [엔지니어링 노트](https://github.com/jaynano44/HR-Dashboard-Automation/blob/main/docs/04_Engineering/engineering_notes.md) | 트러블슈팅 · 기술 결정 기록 |
+
+</details>
 
 ---
 
@@ -469,6 +655,15 @@ class AIEngineer:
 ## 🎨 Frontend Portfolio
 
 **웹 퍼블리싱 & 디자인 포트폴리오**
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://taper44.dothome.co.kr/)
+
+</div>
+
+<details>
+<summary>📋 상세 보기 (기술 스택)</summary>
 
 <table>
   <tr>
@@ -506,11 +701,7 @@ class AIEngineer:
   </tr>
 </table>
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://taper44.dothome.co.kr/)
-
-</div>
+</details>
 
 ---
 
@@ -543,6 +734,9 @@ class AIEngineer:
 ## 🎓 Education & Training
 
 **KDT 기업맞춤형 AI-X 교육과정** (824시간)
+
+<details>
+<summary>📋 커리큘럼 보기</summary>
 
 <table>
   <tr>
@@ -612,8 +806,6 @@ class AIEngineer:
   </tr>
 </table>
 
-### 📚 커리큘럼
-
 <div align="center">
 
 <img width="500" height="600" alt="KDT AI-X 커리큘럼" src="https://github.com/user-attachments/assets/b4aa81e6-3712-4d07-bbf2-c6d5c4273f5a" />
@@ -621,6 +813,8 @@ class AIEngineer:
 </div>
 
 [![학습일지](https://img.shields.io/badge/📚_Study_Log-0000FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaynano44/ai)
+
+</details>
 
 ---
 
