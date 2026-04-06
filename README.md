@@ -489,8 +489,8 @@ class AIEngineer:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaynano44/HR-Dashboard-Automation)
-![Status](https://img.shields.io/badge/v1.2--dev-진행중-orange?style=for-the-badge)
+[![Dashboard](https://img.shields.io/badge/Dashboard-v1.2--dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaynano44/HR-Dashboard-Automation)
+[![Data Engine](https://img.shields.io/badge/Data_Engine-v2.0--baseline-0A66C2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jaynano44/HR-Data-Engine)
 
 </div>
 
